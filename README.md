@@ -1,5 +1,6 @@
 ## My contacts
 <div align="center">
+  <div style="border-radius: 5px; background-color: #aaa; width:200px; height: 50px; display:flex; align-items: center; justify-content: center;">ABOBA</div>
   <a href="https://www.linkedin.com/in/wozgard" style="border-radius:5px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
