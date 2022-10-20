@@ -3,13 +3,13 @@
 ## My contacts
 <div align="center">
   <a href="https://www.linkedin.com/in/wozgard" style="border-radius:5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="./img/linkedin.png" alt="LinkedIn Badge"/>
   </a>&nbsp;
   <a href="https://www.vk.com/wozgard" style="border-radius:5px;">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="./img/vk.png" alt="VK Badge"/>
   </a>&nbsp;
   <a href="https://t.me/wozgard" style="border-radius:5px;">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="./img/telegram.png" alt="Telegram Badge"/>
   </a>
 </div>
 
