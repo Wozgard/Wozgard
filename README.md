@@ -1,3 +1,5 @@
+<img src="https://images4.alphacoders.com/988/988277.jpg" alt="It's coding time"/>
+
 ## My contacts
 <div align="center">
   <a href="https://www.linkedin.com/in/wozgard" style="border-radius:5px;">
