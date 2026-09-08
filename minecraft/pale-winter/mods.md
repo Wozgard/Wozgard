@@ -11,7 +11,11 @@ Minecraft **1.20.1**, лоадер **Forge**.
 | Serene Seasons | https://www.curseforge.com/minecraft/mc-mods/serene-seasons | Настоящая зима |
 | Farmer's Delight | https://www.curseforge.com/minecraft/mc-mods/farmers-delight | Еда как ремесло |
 | Comforts | https://www.curseforge.com/minecraft/mc-mods/comforts | Спальник |
-| Spice of Life: Carrot Edition | https://www.curseforge.com/minecraft/mc-mods/sol-carrot | Нельзя жить одним стейком |
+| Spice of Life: Classic Edition | https://www.curseforge.com/minecraft/mc-mods/foodvariations | Однообразие еды наказывается всегда |
+| Not Just Spoiled | https://modrinth.com/mod/not-just-spoiled | Еда гниёт |
+| No Tree Punching | https://www.curseforge.com/minecraft/mc-mods/no-tree-punching | Без кулака по дереву, кремень как пол |
+| In Control | https://www.curseforge.com/minecraft/mc-mods/in-control | Спавн и события по сезону и дню |
+| McJtyLib | https://www.curseforge.com/minecraft/mc-mods/mcjtylib | Зависимость In Control |
 | TaCZ | https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero | Огнестрел |
 | Zombie Awareness | https://www.curseforge.com/minecraft/mc-mods/zombie-awareness | Слух, свет, кровь |
 | Improved Mobs | https://www.curseforge.com/minecraft/mc-mods/improved-mobs | Ломают, обходят, носят броню |
@@ -21,9 +25,11 @@ Minecraft **1.20.1**, лоадер **Forge**.
 | Terralith | https://www.curseforge.com/minecraft/mc-mods/terralith | Биомы |
 | Tectonic | https://www.curseforge.com/minecraft/mc-mods/tectonic | Рельеф |
 | ParCool | https://www.curseforge.com/minecraft/mc-mods/parcool | Хват за стены |
-| Goety | https://www.curseforge.com/minecraft/mc-mods/goety | Тёмная магия |
-| Enigmatic Legacy | https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy | Проклятья и реликвии |
-| Curios API | https://www.curseforge.com/minecraft/mc-mods/curios | Слоты реликвий |
+| Goety | https://www.curseforge.com/minecraft/mc-mods/goety | Тёмная магия, культисты, ритуальные места |
+| The Graveyard | https://www.curseforge.com/minecraft/mc-mods/the-graveyard | Кладбища и склепы |
+| Mowzie's Mobs | https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs | Фростмоу, страж, монастырь |
+| GeckoLib | https://www.curseforge.com/minecraft/mc-mods/geckolib | Зависимость Mowzie |
+| The Conjurer | https://www.curseforge.com/minecraft/mc-mods/the-conjurer | Тёмный маг в театре |
 | L_Ender's Cataclysm | https://www.curseforge.com/minecraft/mc-mods/lendercataclysm | Загадочные постройки и боссы |
 | Goety Cataclysm | https://www.curseforge.com/minecraft/mc-mods/goety-cataclysm | Связка магии и боссов |
 | Xaero's World Map | https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map | Полноэкранная карта, без мини-карты |
@@ -57,7 +63,6 @@ https://www.curseforge.com/minecraft/customization/tac-z-rebalance
 | William Wythers' Overhauled Overworld | https://modrinth.com/datapack/william-wythers-overhauled-overworld |
 | Immersive Weathering | https://www.curseforge.com/minecraft/mc-mods/immersive-weathering |
 | Moonlight Lib | https://www.curseforge.com/minecraft/mc-mods/selene |
-| The Graveyard | https://www.curseforge.com/minecraft/mc-mods/the-graveyard |
 | YUNG's API | https://www.curseforge.com/minecraft/mc-mods/yungs-api |
 | YUNG's Better Dungeons | https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons |
 | YUNG's Better Mineshafts | https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts |
@@ -67,7 +72,7 @@ https://www.curseforge.com/minecraft/customization/tac-z-rebalance
 | Sound Physics Remastered | https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered |
 | Presence Footsteps | https://www.curseforge.com/minecraft/mc-mods/presence-footsteps |
 | AmbientSounds | https://www.curseforge.com/minecraft/mc-mods/ambientsounds |
-| CreativeCore | https://www.curseforge.com/minecraft/mc-mods/creativecore | зависимость AmbientSounds |
+| CreativeCore | https://www.curseforge.com/minecraft/mc-mods/creativecore |
 
 ## Карта-атлас — optional
 
@@ -84,12 +89,18 @@ https://www.curseforge.com/minecraft/customization/tac-z-rebalance
 
 | Мод | Ссылка | Условие |
 |---|---|---|
+| Diet | https://www.curseforge.com/minecraft/mc-mods/diet | Второй слой еды: группы, не коллекция. После Classic |
+| Enigmatic Legacy | https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy | Проклятые реликвии. Ещё думаем |
+| Curios API | https://www.curseforge.com/minecraft/mc-mods/curios | Нужен Legacy |
+| Illage and Spillage | https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage | Если Conjurer мало |
+| When Dungeons Arise | https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise | Большие комплексы, лут урезать |
 | Enhanced AI | https://www.curseforge.com/minecraft/mc-mods/enhanced-ai | Выключить эндер-жемчуги и удочки |
 | Distant Horizons | https://modrinth.com/mod/distanthorizons | Только клиент, много RAM |
-| The Graveyard (Forge vs Fabric) | проверять файл | Брать Forge-сборку под 1.20.1 |
 
 ## Явно не берём
 
+- Spice of Life: Carrot Edition
+- FTB Quests как основной сюжет
 - Iron's Spells 'n Spellbooks
 - Ars Nouveau
 - Create, Mekanism, Thermal
