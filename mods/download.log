@@ -1,0 +1,92 @@
+OK   Legendary Survival Overhaul -> legendarysurvivaloverhaul-1.20.1-2.4.7.jar (modrinth:legendary-survival-overhaul 1.20.1-2.4.7)
+DEP ok  GlitchCore-forge-1.20.1-0.0.1.1.jar
+OK   Serene Seasons -> SereneSeasons-forge-1.20.1-9.1.0.3.jar (modrinth:serene-seasons 9.1.0.3)
+OK   Farmer's Delight -> FarmersDelight-1.20.1-1.3.4.jar (modrinth:farmers-delight 1.20.1-1.3.4)
+OK   Comforts -> comforts-forge-6.4.0+1.20.1.jar (modrinth:comforts 6.4.0+1.20.1)
+DEP ok  architectury-9.2.14-forge.jar
+OK   Spice of Life Classic Edition -> spiceoflife_classic-forge-2.13.jar (modrinth:spice-of-life-classic-edition 2.13)
+OK   Not Just Spoiled -> notjustspoiled-0.4.1-forge-1.20.1.jar (modrinth:not-just-spoiled 0.4.1)
+OK   No Tree Punching -> notreepunching-forge-1.20-7.1.0.jar (modrinth:no-tree-punching 7.1.0)
+OK   In Control -> incontrol-1.20-9.5.0.jar (modrinth:in-control 1.20-9.5.0)
+OK   McJtyLib -> mcjtylib-1.20-8.0.8.jar (modrinth:mcjtylib 1.20-8.0.8)
+OK   TaCZ -> tacz-1.20.1-1.1.8-hotfix.jar (modrinth:timeless-and-classics-zero 1.1.8-hotfix)
+DEP ok  coroutil-forge-1.20.1-1.3.7.jar
+OK   Zombie Awareness -> zombieawareness-1.20.1-1.13.1.jar (modrinth:zombie-awareness 1.20.1-1.13.1)
+DEP ok  tenshilib-1.20.1-1.7.6-forge.jar
+OK   Improved Mobs -> improvedmobs-1.20.1-1.13.7-forge.jar (modrinth:improved-mobs 1.20.1-1.13.7-forge)
+OK   TenshiLib -> tenshilib-1.20.1-1.7.6-forge.jar (modrinth:tenshilib 1.20.1-1.7.6)
+DEP ok  Atlas Lib-1.20.1-1.1.12.jar
+OK   The Hordes -> The-Hordes-1.20.1-1.6.3h-all.jar (modrinth:the-hordes 1.20.1-1.6.3g)
+OK   Born in Chaos -> born_in_chaos_[Forge]1.20.1_1.7.5.jar (curseforge:born-in-chaos file 7917933)
+OK   Terralith -> Terralith_1.20.x_v2.5.4.jar (modrinth:terralith 2.5.4)
+OK   Tectonic -> tectonic-3.0.17-forge-1.20.1.jar (modrinth:tectonic 3.0.17)
+OK   ParCool -> ParCool-1.20.1-3.4.3.3.jar (modrinth:parcool 1.20.1-3.4.3.3)
+DEP ok  Patchouli-1.20.1-85-FORGE.jar
+DEP ok  curios-forge-5.14.1+1.20.1.jar
+OK   Goety -> goety-2.5.57.3.jar (modrinth:goety 2.5.57.3)
+DEP ok  geckolib-forge-1.20.1-4.8.4.jar
+OK   The Graveyard -> The_Graveyard_3.1_(FORGE)_for_1.20.1.jar (modrinth:the-graveyard-forge 3.1)
+OK   Mowzie's Mobs -> mowziesmobs-1.8.2.jar (modrinth:mowzies-mobs 1.8.2)
+OK   GeckoLib -> geckolib-forge-1.20.1-4.8.4.jar (modrinth:geckolib 4.8.4)
+DEP ok  structure_gel-1.20.1-2.16.2.jar
+OK   The Conjurer -> the-conjurer-1.20.1-1.1.6.jar (modrinth:the-conjurer 1.1.6)
+OK   L_Ender's Cataclysm -> L_Enders_Cataclysm-3.31.jar (curseforge:lendercataclysm file 8246047)
+DEP has L_Enders_Cataclysm-3.31.jar
+DEP ok  lionfishapi-3.0.jar
+OK   Goety Cataclysm -> goety_cataclysm-1.20-1.9.1.jar (modrinth:goety-cataclysm 1.20-1.9.1)
+OK   Xaero's World Map -> xaeroworldmap-forge-1.20.1-1.45.0.jar (modrinth:xaeros-world-map forge-1.20.1-1.45.0)
+OK   Cold Sweat -> ColdSweat-2.4.2.jar (modrinth:cold-sweat 2.4.2)
+OK   Thirst Was Taken -> ThirstWasTaken-1.20.1-1.4.0.jar (modrinth:thirst-was-taken 1.20.1-1.4.0)
+OK   First Aid -> firstaid-1.20.1-1.1.jar (curseforge:first-aid file 5531834)
+DEP ok  rhino-forge-2001.2.3-build.10.jar
+OK   KubeJS -> kubejs-forge-2001.6.5-build.26.jar (modrinth:kubejs 2001.6.5-build.26+forge)
+OK   Rhino -> rhino-forge-2001.2.3-build.10.jar (modrinth:rhino 2001.2.3-build.10+forge)
+OK   Architectury API -> architectury-9.2.14-forge.jar (modrinth:architectury-api 9.2.14+forge)
+OK   TaCZ JS -> taczjs-forge-1.4.2+mc1.20.1.jar (curseforge:tacz-js file 8075278)
+OK   Cloth Config -> cloth-config-11.1.136-forge.jar (modrinth:cloth-config 11.1.136+forge)
+OK   Patchouli -> Patchouli-1.20.1-85-FORGE.jar (modrinth:patchouli 1.20.1-85-forge)
+FAIL TaCZ Rebalance
+FAIL William Wythers Overhauled Overworld
+DEP ok  moonlight-1.20-2.16.35-forge.jar
+OK   Immersive Weathering -> immersive_weathering-1.20.1-2.0.5-forge.jar (modrinth:immersive-weathering 1.20.1-2.0.5)
+OK   Moonlight Lib -> moonlight-1.20-2.16.35-forge.jar (modrinth:moonlight 1.20-2.16.35-forge)
+OK   YUNG's API -> YungsApi-1.20-Forge-4.0.6.jar (modrinth:yungs-api 1.20-Forge-4.0.6)
+OK   YUNG's Better Dungeons -> YungsBetterDungeons-1.20-Forge-4.0.4.jar (modrinth:yungs-better-dungeons 1.20-Forge-4.0.4)
+OK   YUNG's Better Mineshafts -> YungsBetterMineshafts-1.20-Forge-4.0.4.jar (modrinth:yungs-better-mineshafts 1.20-Forge-4.0.4)
+OK   YUNG's Better Strongholds -> YungsBetterStrongholds-1.20-Forge-4.0.3.jar (modrinth:yungs-better-strongholds 1.20-Forge-4.0.3)
+OK   Supplementaries -> supplementaries-1.20-3.1.43-forge.jar (modrinth:supplementaries 1.20-3.1.43-forge)
+OK   Carry On -> carryon-forge-1.20.1-2.1.2.7.jar (modrinth:carry-on 2.1.2.7)
+OK   Sound Physics Remastered -> sound-physics-remastered-forge-1.20.1-1.4.10.jar (modrinth:sound-physics-remastered forge-1.20.1-1.4.10)
+FAIL Presence Footsteps
+DEP ok  CreativeCore_FORGE_v2.12.39_mc1.20.1.jar
+OK   AmbientSounds -> AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar (modrinth:ambientsounds 6.3.8)
+OK   CreativeCore -> CreativeCore_FORGE_v2.12.39_mc1.20.1.jar (modrinth:creativecore 2.12.39)
+DEP ok  mcqoy-0.4.1+forge-1.20.jar
+DEP ok  yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar
+DEP FAIL Mod Menu (modmenu)
+DEP ok  surveyor-1.2.4+1.20.jar
+DEP FAIL Fabric API (fabric-api)
+OK   Antique Atlas 4 -> antique-atlas-3.1.2+1.20.jar (modrinth:antique-atlas-4 3.1.2+1.20)
+OK   Surveyor -> surveyor-1.2.4+1.20.jar (modrinth:surveyor 1.2.4+1.20)
+DEP ok  fabric-api-0.92.6+1.11.15+1.20.1.jar
+OK   Sinytra Connector -> Connector-1.0.0-beta.49+1.20.1.jar (modrinth:connector 1.0.0-beta.49+1.20.1)
+OK   Forgified Fabric API -> fabric-api-0.92.6+1.11.15+1.20.1.jar (modrinth:forgified-fabric-api 0.92.6+1.11.15+1.20.1)
+OK   Diet -> diet-forge-2.1.1+1.20.1.jar (modrinth:diet 2.1.1+1.20.1)
+DEP ok  caelus-forge-3.2.0+1.20.1.jar
+OK   Enigmatic Legacy -> EnigmaticLegacy-2.30.1.jar (modrinth:enigmatic-legacy 2.30.1)
+OK   Curios API -> curios-forge-5.14.1+1.20.1.jar (modrinth:curios 5.14.1+1.20.1)
+FAIL Illage and Spillage
+OK   When Dungeons Arise -> DungeonsArise-1.20.x-2.1.58-release.jar (modrinth:when-dungeons-arise 2.1.58-1.20.x)
+DEP ok  insanelib-1.23.4.6.jar
+OK   Enhanced AI -> enhancedai-3.3.7.3.jar (modrinth:enhanced-ai 3.3.7.3)
+OK   Distant Horizons -> DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar (modrinth:distanthorizons 3.2.0-b-1.20.1)
+OK   Structure Gel API -> structure_gel-1.20.1-2.16.2.jar (modrinth:structure-gel-api 2.16.2)
+OK   InsaneLib -> insanelib-1.23.4.6.jar (modrinth:insanelib 1.23.4.6)
+OK   Player Animator -> player-animation-lib-forge-1.0.2-rc1+1.20.jar (modrinth:playeranimator 1.0.2-rc1+1.20-forge)
+OK   Kotlin for Forge -> kotlinforforge-4.12.0-all.jar (modrinth:kotlin-for-forge 4.12.0)
+OK   Iceberg -> Iceberg-1.20.1-forge-1.1.25.jar (modrinth:iceberg 1.1.25)
+OK   Puzzles Lib -> PuzzlesLib-v8.1.33-1.20.1-Forge.jar (modrinth:puzzles-lib v8.1.33-1.20.1-Forge)
+FAIL Forge Config API Port
+FAIL Mixinextras
+OK   Citadel -> citadel-2.6.3-1.20.1.jar (modrinth:citadel 2.6.3)
+OK   SmartBrainLib -> SmartBrainLib-forge-1.20.1-1.15.jar (modrinth:smartbrainlib 1.15)
