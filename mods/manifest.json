@@ -1,0 +1,703 @@
+{
+  "game": "1.20.1",
+  "loader": "forge",
+  "mods": [
+    {
+      "name": "Legendary Survival Overhaul",
+      "file": "legendarysurvivaloverhaul-1.20.1-2.4.7.jar",
+      "source": "modrinth:legendary-survival-overhaul 1.20.1-2.4.7",
+      "bytes": 3751172
+    },
+    {
+      "name": "Serene Seasons",
+      "file": "SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+      "source": "modrinth:serene-seasons 9.1.0.3",
+      "bytes": 160886
+    },
+    {
+      "name": "Farmer's Delight",
+      "file": "FarmersDelight-1.20.1-1.3.4.jar",
+      "source": "modrinth:farmers-delight 1.20.1-1.3.4",
+      "bytes": 3311051
+    },
+    {
+      "name": "Comforts",
+      "file": "comforts-forge-6.4.0+1.20.1.jar",
+      "source": "modrinth:comforts 6.4.0+1.20.1",
+      "bytes": 382083
+    },
+    {
+      "name": "Spice of Life Classic Edition",
+      "file": "spiceoflife_classic-forge-2.13.jar",
+      "source": "modrinth:spice-of-life-classic-edition 2.13",
+      "bytes": 122039
+    },
+    {
+      "name": "Not Just Spoiled",
+      "file": "notjustspoiled-0.4.1-forge-1.20.1.jar",
+      "source": "modrinth:not-just-spoiled 0.4.1",
+      "bytes": 821923
+    },
+    {
+      "name": "No Tree Punching",
+      "file": "notreepunching-forge-1.20-7.1.0.jar",
+      "source": "modrinth:no-tree-punching 7.1.0",
+      "bytes": 475991
+    },
+    {
+      "name": "In Control",
+      "file": "incontrol-1.20-9.5.0.jar",
+      "source": "modrinth:in-control 1.20-9.5.0",
+      "bytes": 371650
+    },
+    {
+      "name": "McJtyLib",
+      "file": "mcjtylib-1.20-8.0.8.jar",
+      "source": "modrinth:mcjtylib 1.20-8.0.8",
+      "bytes": 714454
+    },
+    {
+      "name": "TaCZ",
+      "file": "tacz-1.20.1-1.1.8-hotfix.jar",
+      "source": "modrinth:timeless-and-classics-zero 1.1.8-hotfix",
+      "bytes": 57465167
+    },
+    {
+      "name": "Zombie Awareness",
+      "file": "zombieawareness-1.20.1-1.13.1.jar",
+      "source": "modrinth:zombie-awareness 1.20.1-1.13.1",
+      "bytes": 291139
+    },
+    {
+      "name": "Improved Mobs",
+      "file": "improvedmobs-1.20.1-1.13.7-forge.jar",
+      "source": "modrinth:improved-mobs 1.20.1-1.13.7-forge",
+      "bytes": 335652
+    },
+    {
+      "name": "TenshiLib",
+      "file": "tenshilib-1.20.1-1.7.6-forge.jar",
+      "source": "modrinth:tenshilib 1.20.1-1.7.6",
+      "bytes": 465737
+    },
+    {
+      "name": "The Hordes",
+      "file": "The-Hordes-1.20.1-1.6.3h-all.jar",
+      "source": "modrinth:the-hordes 1.20.1-1.6.3g",
+      "bytes": 619466
+    },
+    {
+      "name": "Born in Chaos",
+      "file": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "source": "curseforge:born-in-chaos file 7917933",
+      "bytes": 11839865
+    },
+    {
+      "name": "Terralith",
+      "file": "Terralith_1.20.x_v2.5.4.jar",
+      "source": "modrinth:terralith 2.5.4",
+      "bytes": 3156901
+    },
+    {
+      "name": "Tectonic",
+      "file": "tectonic-3.0.17-forge-1.20.1.jar",
+      "source": "modrinth:tectonic 3.0.17",
+      "bytes": 322575
+    },
+    {
+      "name": "ParCool",
+      "file": "ParCool-1.20.1-3.4.3.3.jar",
+      "source": "modrinth:parcool 1.20.1-3.4.3.3",
+      "bytes": 1154052
+    },
+    {
+      "name": "Goety",
+      "file": "goety-2.5.57.3.jar",
+      "source": "modrinth:goety 2.5.57.3",
+      "bytes": 78825346
+    },
+    {
+      "name": "The Graveyard",
+      "file": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "source": "modrinth:the-graveyard-forge 3.1",
+      "bytes": 10298057
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "file": "mowziesmobs-1.8.2.jar",
+      "source": "modrinth:mowzies-mobs 1.8.2",
+      "bytes": 36033850
+    },
+    {
+      "name": "GeckoLib",
+      "file": "geckolib-forge-1.20.1-4.8.4.jar",
+      "source": "modrinth:geckolib 4.8.4",
+      "bytes": 1038209
+    },
+    {
+      "name": "The Conjurer",
+      "file": "the-conjurer-1.20.1-1.1.6.jar",
+      "source": "modrinth:the-conjurer 1.1.6",
+      "bytes": 5389073
+    },
+    {
+      "name": "L_Ender's Cataclysm",
+      "file": "L_Enders_Cataclysm-3.31.jar",
+      "source": "curseforge:lendercataclysm file 8246047",
+      "bytes": 73916104
+    },
+    {
+      "name": "Goety Cataclysm",
+      "file": "goety_cataclysm-1.20-1.9.1.jar",
+      "source": "modrinth:goety-cataclysm 1.20-1.9.1",
+      "bytes": 1834676
+    },
+    {
+      "name": "Xaero's World Map",
+      "file": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
+      "source": "modrinth:xaeros-world-map forge-1.20.1-1.45.0",
+      "bytes": 1424881
+    },
+    {
+      "name": "Cold Sweat",
+      "file": "ColdSweat-2.4.2.jar",
+      "source": "modrinth:cold-sweat 2.4.2",
+      "bytes": 2705107
+    },
+    {
+      "name": "Thirst Was Taken",
+      "file": "ThirstWasTaken-1.20.1-1.4.0.jar",
+      "source": "modrinth:thirst-was-taken 1.20.1-1.4.0",
+      "bytes": 220762
+    },
+    {
+      "name": "First Aid",
+      "file": "firstaid-1.20.1-1.1.jar",
+      "source": "curseforge:first-aid file 5531834",
+      "bytes": 450159
+    },
+    {
+      "name": "KubeJS",
+      "file": "kubejs-forge-2001.6.5-build.26.jar",
+      "source": "modrinth:kubejs 2001.6.5-build.26+forge",
+      "bytes": 1658792
+    },
+    {
+      "name": "Rhino",
+      "file": "rhino-forge-2001.2.3-build.10.jar",
+      "source": "modrinth:rhino 2001.2.3-build.10+forge",
+      "bytes": 1798244
+    },
+    {
+      "name": "Architectury API",
+      "file": "architectury-9.2.14-forge.jar",
+      "source": "modrinth:architectury-api 9.2.14+forge",
+      "bytes": 580602
+    },
+    {
+      "name": "TaCZ JS",
+      "file": "taczjs-forge-1.4.2+mc1.20.1.jar",
+      "source": "curseforge:tacz-js file 8075278",
+      "bytes": 95759
+    },
+    {
+      "name": "Cloth Config",
+      "file": "cloth-config-11.1.136-forge.jar",
+      "source": "modrinth:cloth-config 11.1.136+forge",
+      "bytes": 1181413
+    },
+    {
+      "name": "Patchouli",
+      "file": "Patchouli-1.20.1-85-FORGE.jar",
+      "source": "modrinth:patchouli 1.20.1-85-forge",
+      "bytes": 642732
+    },
+    {
+      "name": "Immersive Weathering",
+      "file": "immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "source": "modrinth:immersive-weathering 1.20.1-2.0.5",
+      "bytes": 2269048
+    },
+    {
+      "name": "Moonlight Lib",
+      "file": "moonlight-1.20-2.16.35-forge.jar",
+      "source": "modrinth:moonlight 1.20-2.16.35-forge",
+      "bytes": 1425229
+    },
+    {
+      "name": "YUNG's API",
+      "file": "YungsApi-1.20-Forge-4.0.6.jar",
+      "source": "modrinth:yungs-api 1.20-Forge-4.0.6",
+      "bytes": 370524
+    },
+    {
+      "name": "YUNG's Better Dungeons",
+      "file": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "source": "modrinth:yungs-better-dungeons 1.20-Forge-4.0.4",
+      "bytes": 792381
+    },
+    {
+      "name": "YUNG's Better Mineshafts",
+      "file": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "source": "modrinth:yungs-better-mineshafts 1.20-Forge-4.0.4",
+      "bytes": 492998
+    },
+    {
+      "name": "YUNG's Better Strongholds",
+      "file": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "source": "modrinth:yungs-better-strongholds 1.20-Forge-4.0.3",
+      "bytes": 473564
+    },
+    {
+      "name": "Supplementaries",
+      "file": "supplementaries-1.20-3.1.43-forge.jar",
+      "source": "modrinth:supplementaries 1.20-3.1.43-forge",
+      "bytes": 13667742
+    },
+    {
+      "name": "Carry On",
+      "file": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "source": "modrinth:carry-on 2.1.2.7",
+      "bytes": 439457
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "file": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+      "source": "modrinth:sound-physics-remastered forge-1.20.1-1.4.10",
+      "bytes": 203819
+    },
+    {
+      "name": "AmbientSounds",
+      "file": "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "source": "modrinth:ambientsounds 6.3.8",
+      "bytes": 53429226
+    },
+    {
+      "name": "CreativeCore",
+      "file": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+      "source": "modrinth:creativecore 2.12.39",
+      "bytes": 1144128
+    },
+    {
+      "name": "Antique Atlas 4",
+      "file": "antique-atlas-3.1.2+1.20.jar",
+      "source": "modrinth:antique-atlas-4 3.1.2+1.20",
+      "bytes": 886946
+    },
+    {
+      "name": "Surveyor",
+      "file": "surveyor-1.2.4+1.20.jar",
+      "source": "modrinth:surveyor 1.2.4+1.20",
+      "bytes": 602266
+    },
+    {
+      "name": "Sinytra Connector",
+      "file": "Connector-1.0.0-beta.49+1.20.1.jar",
+      "source": "modrinth:connector 1.0.0-beta.49+1.20.1",
+      "bytes": 5046109
+    },
+    {
+      "name": "Forgified Fabric API",
+      "file": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+      "source": "modrinth:forgified-fabric-api 0.92.6+1.11.15+1.20.1",
+      "bytes": 3065833
+    },
+    {
+      "name": "Diet",
+      "file": "diet-forge-2.1.1+1.20.1.jar",
+      "source": "modrinth:diet 2.1.1+1.20.1",
+      "bytes": 368483
+    },
+    {
+      "name": "Enigmatic Legacy",
+      "file": "EnigmaticLegacy-2.30.1.jar",
+      "source": "modrinth:enigmatic-legacy 2.30.1",
+      "bytes": 7276807
+    },
+    {
+      "name": "Curios API",
+      "file": "curios-forge-5.14.1+1.20.1.jar",
+      "source": "modrinth:curios 5.14.1+1.20.1",
+      "bytes": 398066
+    },
+    {
+      "name": "When Dungeons Arise",
+      "file": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "source": "modrinth:when-dungeons-arise 2.1.58-1.20.x",
+      "bytes": 8762342
+    },
+    {
+      "name": "Enhanced AI",
+      "file": "enhancedai-3.3.7.3.jar",
+      "source": "modrinth:enhanced-ai 3.3.7.3",
+      "bytes": 1387579
+    },
+    {
+      "name": "Distant Horizons",
+      "file": "DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
+      "source": "modrinth:distanthorizons 3.2.0-b-1.20.1",
+      "bytes": 29561297
+    },
+    {
+      "name": "Structure Gel API",
+      "file": "structure_gel-1.20.1-2.16.2.jar",
+      "source": "modrinth:structure-gel-api 2.16.2",
+      "bytes": 966028
+    },
+    {
+      "name": "InsaneLib",
+      "file": "insanelib-1.23.4.6.jar",
+      "source": "modrinth:insanelib 1.23.4.6",
+      "bytes": 369931
+    },
+    {
+      "name": "Player Animator",
+      "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "source": "modrinth:playeranimator 1.0.2-rc1+1.20-forge",
+      "bytes": 181437
+    },
+    {
+      "name": "Kotlin for Forge",
+      "file": "kotlinforforge-4.12.0-all.jar",
+      "source": "modrinth:kotlin-for-forge 4.12.0",
+      "bytes": 7442998
+    },
+    {
+      "name": "Iceberg",
+      "file": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "source": "modrinth:iceberg 1.1.25",
+      "bytes": 134551
+    },
+    {
+      "name": "Puzzles Lib",
+      "file": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "source": "modrinth:puzzles-lib v8.1.33-1.20.1-Forge",
+      "bytes": 1342987
+    },
+    {
+      "name": "Citadel",
+      "file": "citadel-2.6.3-1.20.1.jar",
+      "source": "modrinth:citadel 2.6.3",
+      "bytes": 3185275
+    },
+    {
+      "name": "SmartBrainLib",
+      "file": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "source": "modrinth:smartbrainlib 1.15",
+      "bytes": 362339
+    }
+  ],
+  "failed": [
+    "TaCZ Rebalance",
+    "William Wythers Overhauled Overworld",
+    "Presence Footsteps",
+    "Illage and Spillage",
+    "Forge Config API Port",
+    "Mixinextras"
+  ],
+  "files": [
+    {
+      "file": "AmbientSounds_FORGE_v6.3.8_mc1.20.1.jar",
+      "bytes": 53429226
+    },
+    {
+      "file": "Atlas Lib-1.20.1-1.1.12.jar",
+      "bytes": 124436
+    },
+    {
+      "file": "ColdSweat-2.4.2.jar",
+      "bytes": 2705107
+    },
+    {
+      "file": "Connector-1.0.0-beta.49+1.20.1.jar",
+      "bytes": 5046109
+    },
+    {
+      "file": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+      "bytes": 1144128
+    },
+    {
+      "file": "DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
+      "bytes": 29561297
+    },
+    {
+      "file": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "bytes": 8762342
+    },
+    {
+      "file": "EnigmaticLegacy-2.30.1.jar",
+      "bytes": 7276807
+    },
+    {
+      "file": "FarmersDelight-1.20.1-1.3.4.jar",
+      "bytes": 3311051
+    },
+    {
+      "file": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "bytes": 87551
+    },
+    {
+      "file": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "bytes": 134551
+    },
+    {
+      "file": "L_Enders_Cataclysm-3.31.jar",
+      "bytes": 73916104
+    },
+    {
+      "file": "ParCool-1.20.1-3.4.3.3.jar",
+      "bytes": 1154052
+    },
+    {
+      "file": "Patchouli-1.20.1-85-FORGE.jar",
+      "bytes": 642732
+    },
+    {
+      "file": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "bytes": 1342987
+    },
+    {
+      "file": "SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+      "bytes": 160886
+    },
+    {
+      "file": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "bytes": 362339
+    },
+    {
+      "file": "TaCZ-Rebalance-gunpack.zip",
+      "bytes": 34011458
+    },
+    {
+      "file": "Terralith_1.20.x_v2.5.4.jar",
+      "bytes": 3156901
+    },
+    {
+      "file": "The-Hordes-1.20.1-1.6.3h-all.jar",
+      "bytes": 619466
+    },
+    {
+      "file": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "bytes": 10298057
+    },
+    {
+      "file": "ThirstWasTaken-1.20.1-1.4.0.jar",
+      "bytes": 220762
+    },
+    {
+      "file": "WWOO-FABRIC+FORGE+QUILT-2.0.0.jar",
+      "bytes": 2172855
+    },
+    {
+      "file": "YungsApi-1.20-Forge-4.0.6.jar",
+      "bytes": 370524
+    },
+    {
+      "file": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "bytes": 792381
+    },
+    {
+      "file": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "bytes": 492998
+    },
+    {
+      "file": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "bytes": 473564
+    },
+    {
+      "file": "antique-atlas-3.1.2+1.20.jar",
+      "bytes": 886946
+    },
+    {
+      "file": "architectury-9.2.14-forge.jar",
+      "bytes": 580602
+    },
+    {
+      "file": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "bytes": 11839865
+    },
+    {
+      "file": "caelus-forge-3.2.0+1.20.1.jar",
+      "bytes": 40125
+    },
+    {
+      "file": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "bytes": 439457
+    },
+    {
+      "file": "citadel-2.6.3-1.20.1.jar",
+      "bytes": 3185275
+    },
+    {
+      "file": "cloth-config-11.1.136-forge.jar",
+      "bytes": 1181413
+    },
+    {
+      "file": "comforts-forge-6.4.0+1.20.1.jar",
+      "bytes": 382083
+    },
+    {
+      "file": "coroutil-forge-1.20.1-1.3.7.jar",
+      "bytes": 64187
+    },
+    {
+      "file": "curios-forge-5.14.1+1.20.1.jar",
+      "bytes": 398066
+    },
+    {
+      "file": "diet-forge-2.1.1+1.20.1.jar",
+      "bytes": 368483
+    },
+    {
+      "file": "enhancedai-3.3.7.3.jar",
+      "bytes": 1387579
+    },
+    {
+      "file": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+      "bytes": 3065833
+    },
+    {
+      "file": "firstaid-1.20.1-1.1.jar",
+      "bytes": 450159
+    },
+    {
+      "file": "geckolib-forge-1.20.1-4.8.4.jar",
+      "bytes": 1038209
+    },
+    {
+      "file": "goety-2.5.57.3.jar",
+      "bytes": 78825346
+    },
+    {
+      "file": "goety_cataclysm-1.20-1.9.1.jar",
+      "bytes": 1834676
+    },
+    {
+      "file": "illageandspillagerespillaged-1.2.8.jar",
+      "bytes": 33578108
+    },
+    {
+      "file": "immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "bytes": 2269048
+    },
+    {
+      "file": "improvedmobs-1.20.1-1.13.7-forge.jar",
+      "bytes": 335652
+    },
+    {
+      "file": "incontrol-1.20-9.5.0.jar",
+      "bytes": 371650
+    },
+    {
+      "file": "insanelib-1.23.4.6.jar",
+      "bytes": 369931
+    },
+    {
+      "file": "kotlinforforge-4.12.0-all.jar",
+      "bytes": 7442998
+    },
+    {
+      "file": "kubejs-forge-2001.6.5-build.26.jar",
+      "bytes": 1658792
+    },
+    {
+      "file": "legendarysurvivaloverhaul-1.20.1-2.4.7.jar",
+      "bytes": 3751172
+    },
+    {
+      "file": "lionfishapi-3.0.jar",
+      "bytes": 101931
+    },
+    {
+      "file": "mcjtylib-1.20-8.0.8.jar",
+      "bytes": 714454
+    },
+    {
+      "file": "mcqoy-0.4.1+forge-1.20.jar",
+      "bytes": 310916
+    },
+    {
+      "file": "moonlight-1.20-2.16.35-forge.jar",
+      "bytes": 1425229
+    },
+    {
+      "file": "mowziesmobs-1.8.2.jar",
+      "bytes": 36033850
+    },
+    {
+      "file": "notjustspoiled-0.4.1-forge-1.20.1.jar",
+      "bytes": 821923
+    },
+    {
+      "file": "notreepunching-forge-1.20-7.1.0.jar",
+      "bytes": 475991
+    },
+    {
+      "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "bytes": 181437
+    },
+    {
+      "file": "presencefootsteps-forge-1.20.1-1.0.0.jar",
+      "bytes": 5567573
+    },
+    {
+      "file": "rhino-forge-2001.2.3-build.10.jar",
+      "bytes": 1798244
+    },
+    {
+      "file": "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+      "bytes": 203819
+    },
+    {
+      "file": "spiceoflife_classic-forge-2.13.jar",
+      "bytes": 122039
+    },
+    {
+      "file": "structure_gel-1.20.1-2.16.2.jar",
+      "bytes": 966028
+    },
+    {
+      "file": "supplementaries-1.20-3.1.43-forge.jar",
+      "bytes": 13667742
+    },
+    {
+      "file": "surveyor-1.2.4+1.20.jar",
+      "bytes": 602266
+    },
+    {
+      "file": "tacz-1.20.1-1.1.8-hotfix.jar",
+      "bytes": 57465167
+    },
+    {
+      "file": "taczjs-forge-1.4.2+mc1.20.1.jar",
+      "bytes": 95759
+    },
+    {
+      "file": "tectonic-3.0.17-forge-1.20.1.jar",
+      "bytes": 322575
+    },
+    {
+      "file": "tenshilib-1.20.1-1.7.6-forge.jar",
+      "bytes": 465737
+    },
+    {
+      "file": "the-conjurer-1.20.1-1.1.6.jar",
+      "bytes": 5389073
+    },
+    {
+      "file": "xaeroworldmap-forge-1.20.1-1.45.0.jar",
+      "bytes": 1424881
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "bytes": 1105891
+    },
+    {
+      "file": "zombieawareness-1.20.1-1.13.1.jar",
+      "bytes": 291139
+    }
+  ],
+  "jar_count": 74,
+  "total_bytes": 527069990,
+  "note": "1.20.1 Forge. Do not mix LSO with Cold Sweat/Thirst/First Aid. TaCZ-Rebalance-gunpack.zip goes in tacz/, not mods/."
+}
